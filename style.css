@@ -1,0 +1,104 @@
+body{
+    font-family: 'Lobster', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+}
+.color-w{
+    color: rgb(85, 0, 155);
+    
+}
+.left-border{
+    border-left: 5px solid #3333cc;
+    
+  }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#3333cc,gold);
+    padding: 10px 25px;
+    color: whitesmoke;
+    font-weight: 900 ;
+    border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    text-align: justify;
+
+}
+
+
+.half-width img{
+    width: 40%;
+  
+   
+}
+.flexible-container{
+    
+    display: flex;
+    margin-bottom: 40PX;
+}
+.center{
+    text-align: center;
+    font-size: 35px;
+}
+#mission{
+    border-left: 8px solid;
+    border-image:linear-gradient(blue,cyan) ;
+    border-image-slice: 1;
+    border-radius: 10px;
+    background-color:#66ccff ;
+    box-shadow: 10px 10px 30px silver;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: justify;
+    background-repeat: no-repeat;
+    padding-right: 20px;
+}
+#vission{
+    border-left: 8px solid;
+    border-image:linear-gradient(purple,tomato) ;
+    border-image-slice: 1;
+    border-radius: 10px;
+    background-color:#ff99cc ;
+    box-shadow: 10px 10px 30px silver;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: justify;
+    background-repeat: no-repeat;
+    padding-right: 20px;
+}
+#goals{
+    border-left: 8px solid;
+    border-image:linear-gradient(orange,tomato) ;
+    border-image-slice: 1;
+    border-radius: 10px;
+    background-color:#ffffcc;
+    box-shadow: 10px 10px 30px silver;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: justify;
+    background-repeat: no-repeat;
+    padding-right: 20px;
+   
+}
+#second-dev{
+    width: 100%;
+    
+}
+footer {
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    }
+.footer-color{
+    color: rgb(5, 228, 217);
+}
+.footer-m{
+color:cornsilk;
+}
+    
